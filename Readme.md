@@ -1,7 +1,6 @@
 ## Informações do trabalho
 
 - Nome: Julio Cesar
-- Matricula: 891945
 - Proposta de projeto escolhida: Notícias com crud completo, 5 telas e variadas funcinoalidades pedidas.
 
 ## Como inicializar o projeto
@@ -26,4 +25,3 @@ O sistema  conta com:
 - Tela de **login**;
 - Página de **cadastro de notícias** (restrita a admins);
 - Página de **detalhes da notícia**, acessada ao clicar em uma notícia no carrossel.
-- Trabalho Concluido
