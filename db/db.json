@@ -1,0 +1,81 @@
+{
+  "noticias": [
+    {
+      "id": "406fde8e-fcb2-4205-83b2-30f4c03237a6",
+      "titulo": "PSG ganha Champions League",
+      "conteudo": "Psg depois de saida de craques como Neymar, Mbape e Messi conseguiram, por piada do destino ganhar o tão sonhado titulo",
+      "autor": "Victor Sergio",
+      "dataPublicacao": "2025-06-04",
+      "categoria": "esporte",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/05/marquinhos-levanta-trofeu-champions-league-e1748726006711.jpg",
+      "isFavorita": true
+    },
+    {
+      "id": "3a5f3dc6-6c97-4dce-9aac-af85e63ef2a7",
+      "titulo": "Flamengo vai pegar Atletico Mineiro em Copa do Brasil",
+      "conteudo": "O sorteio no dia de hoje 02/06 assustou os Atleticanos, o clube vai pegar nas oitavas da copa do brasil o time que derrotou, amassou eles na final do ano passado FORA DE CASA.",
+      "autor": "Teste",
+      "dataPublicacao": "2025-06-02",
+      "categoria": "esporte",
+      "imagem": "https://conteudo.imguol.com.br/c/esporte/95/2024/11/03/gabigol-balancou-as-redes-em-flamengo-x-atletico-mg-duelo-da-final-da-copa-do-brasil-1730664326776_v2_4x3.jpg",
+      "isFavorita": false
+    },
+    {
+      "id": "fe986884-cdd1-40a8-89af-2e811c116526",
+      "titulo": "Tecnologia revoluciona forma de criação de videos",
+      "conteudo": "A veo 3 da Google foi lançada essa semana, e internautas ficam assustados com qualidade e semelhança a vídeos reais.",
+      "autor": "Teste",
+      "dataPublicacao": "2025-04-08",
+      "categoria": "IA",
+      "imagem": "https://blog.api.v4company.com/wp-content/uploads/2025/05/Capa-Google-Vo3.jpg",
+      "isFavorita": false
+    },
+    {
+      "id": "3263177e-f382-4fae-aaa2-7fe7a5dcd04c",
+      "titulo": "Nova lei impacta estudantes",
+      "conteudo": "Mudanças na legislação trazem novas exigências para escolas no Brasil.",
+      "autor": "Teste",
+      "dataPublicacao": "2025-03-04",
+      "categoria": "estudo",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/08/GettyImages-1447093656-e1727479805951.jpg",
+      "isFavorita": false
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1d493619-485b-4fc4-8ea6-b532ca076247",
+      "nome": "Teste",
+      "login": "teste",
+      "senha": "123",
+      "email": "teste@gmail.com",
+      "isAdmin": true
+    },
+    {
+      "id": "6d4e645a-5348-4f45-8343-eb5c567d25c5",
+      "nome": "user",
+      "login": "User01",
+      "senha": "123",
+      "email": "user@gmail.com",
+      "isAdmin": false
+    }
+  ],
+  "alunoTrabalho": [
+    {
+      "nome": "Julio Cesar",
+      "Curso": "Sistemas de Informação",
+      "Turma": "Noite",
+      "Matricula": "891945",
+      "id": "1941"
+    }
+  ],
+  "usuarioLogado": [
+    {
+      "id": "1d493619-485b-4fc4-8ea6-b532ca076247",
+      "nome": "Teste",
+      "login": "teste",
+      "senha": "123",
+      "email": "teste@gmail.com",
+      "isAdmin": true
+    }
+  ]
+}
